@@ -6,10 +6,9 @@
       "Headphones",
       "desk"
     ],
-    "description": "# Headphone Desk Holder\n\nA simple parametric holder for heaphones, designed to be slid on your desk. Could be parametrized for individual desk thickness and headphones size.\nProbably subconciously inspired by countless similar holders on the internet.\n\n## Fine tuning\n\nIf the holder is a bit too loose, you can add sticky-tape on the insides to make it fit better.\n\n## Thingiverse\n\nhttps://www.thingiverse.com/thing:6482771\n\n## GitHub\n\nhttps://github.com/nomike/headphone-desk-holder",
     "instructions": "Print and enjoy",
     "is_wip": false,
-    "license": "gpl3",
+    "license": "bsd",
     "id": 6482771
   },
   "files": [
