@@ -6,16 +6,27 @@
       "Headphones",
       "desk"
     ],
-    "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "bsd",
     "id": 6482771
   },
-  "files": [
-    "headphone_desk_holder.scad",
-    "headphone_desk_holder.stl"
-  ],
-  "images": [
-    "photos/headphone_desk_holder.png"
-  ]
+  "files": {
+    "headphone_desk_holder.scad": {
+      "id": 14247070,
+      "name": "headphone_desk_holder.scad",
+      "url": "https://www.thingiverse.com/download:14247070"
+    },
+    "headphone_desk_holder.stl": {
+      "id": 14247049,
+      "name": "headphone_desk_holder.stl",
+      "url": "https://www.thingiverse.com/download:14247049"
+    }
+  },
+  "images": {
+    "photos/headphone_desk_holder.png": {
+      "id": 20903010,
+      "name": "50b152df-f2f2-4520-bfc4-14d17d0a56b7.png",
+      "url": "https://www.thingiverse.com/image:20903010"
+    }
+  }
 }
