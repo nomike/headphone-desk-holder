@@ -1,11 +1,15 @@
-.PHONY: upload
+# Output directory for generated STL files
+OUTPUT_DIR = output
 
-headphone_desk_holder.stl: headphone_desk_holder.scad
-	openscad -o $@ $<
+.PHONY: all generate_stls clean
 
-publish: headphone_desk_holder.stl
-	thingiverse-publisher
+all: $(OUTPUT_DIR) generate_stls
 
-clean: 
-	rm headphone_desk_holder.stl
-	
+$(OUTPUT_DIR):
+	mkdir -p $@
+
+generate_stls:
+	openscad_stl_file_generator/generate_stls --output-dir="$(OUTPUT_DIR)"
+
+clean:
+	rm -rf $(OUTPUT_DIR)
