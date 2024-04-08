@@ -9,8 +9,8 @@ If the holder is a bit too loose, you can add sticky-tape on the insides to make
 
 ## Thingiverse
 
-https://www.thingiverse.com/thing:6482771
+<https://www.thingiverse.com/thing:6482771>
 
 ## GitHub
 
-https://github.com/nomike/headphone-desk-holder
+<https://github.com/nomike/headphone-desk-holder>
